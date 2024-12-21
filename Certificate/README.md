@@ -1,1 +1,1 @@
-![Certificate](./view.png)
+![Certificate](./view.jpg)
